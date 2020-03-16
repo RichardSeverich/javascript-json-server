@@ -1,0 +1,23 @@
+{
+  "name": "javascript-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardSeverich/javascript-json-server.git"
+  },
+  "author": "RichardSeverich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardSeverich/javascript-json-server/issues"
+  },
+  "homepage": "https://github.com/RichardSeverich/javascript-json-server#readme",
+  "dependencies": {
+    "json-server": "~0.16.1"
+  }
+}
