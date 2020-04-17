@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/RichardSeverich/javascript-json-server#readme",
   "dependencies": {
-    "hai-server": "0.0.3",
-    "json-server": "~0.16.1"
+    "hai-server": "0.0.4",
+    "json-server": "0.16.1"
   }
 }

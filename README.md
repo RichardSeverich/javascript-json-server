@@ -61,8 +61,8 @@ See more information here: https://www.npmjs.com/package/json-server
 
 ```
 {
-  "email": "nilson@email.com",
-  "password":"nilson"
+  "email": "admin@email.com",
+  "password": "admin123"
 }
 ```
 
@@ -77,3 +77,17 @@ See more information here: https://www.npmjs.com/package/json-server
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+
+4. Examples:
+
+### Get Token
+
+<p align="center">
+  <img src="documentation/authenticationURL01.jpg">
+</p>
+
+### Use Token
+
+<p align="center">
+  <img src="documentation/authenticationURL02.jpg">
+</p>
